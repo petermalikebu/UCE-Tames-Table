@@ -1,0 +1,8 @@
+{
+  "name": "ChronosStudy - 6-Week Master Exam Timetable & AI Hub",
+  "description": "Futuristic 6-week intensive study master timetable, class schedule integrator, real-time reminders, PDF wall poster exporter, and AI revision companion for Peter Malikebu (UCE/1/143/26).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
